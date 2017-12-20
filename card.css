@@ -1,0 +1,76 @@
+
+.card
+{
+	height: 350px;
+	width: 550px;
+	background-color: #113070;
+	border-radius: 15px;
+	margin: auto;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.txt1
+{
+	margin-top: 20px;
+	margin-left: 35px;
+	font-color: white;
+	font-size: 10px;
+}
+.img1
+{
+	float: right;
+	margin-top: -1px;
+}
+.img2
+{
+	float: left;
+	margin-left: 70px;
+}
+.number
+{
+	margin-top: 100px;
+	margin-left: 70px;
+	font-color: white;
+	font-size: 10px;
+}
+.sidetxt
+{
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.img3
+{
+	float: right;
+	margin-top: -110px;
+}
+.name
+{
+	margin-top: 10px;
+	margin-left: 35px;
+	font-color: white;
+	font-size: 10px;
+}
+.valid
+{
+	margin-left: 70px;
+	margin-top: 0px;
+}
+.thru
+{
+	margin-left: 71px;
+	margin-top: -5px;
+}
+.date
+{
+	margin-left: 113px;
+	margin-top: -40px;
+}
+#pass
+{
+	margin-top: -7px;
+	margin-left: 0px;
+}
